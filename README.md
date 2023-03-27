@@ -1,4 +1,4 @@
-# Work-by-Bobby
+# ESG-Scanner
 About ESG Scanner  
 1.通过网页PDF链接获取ESG报告  
 2.使用pdfplumber库识别PDF内容并保存  
